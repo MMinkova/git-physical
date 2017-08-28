@@ -2,7 +2,7 @@
 In this workshop you will respond to a creative challenge which will engage you in a simplified version control exercise of image and text. In the process, you will be introduced to git's architecture and basic workflow. No technical skills or advance preparation is required. The challenge can be tackled by any number of participants.
 
 ## Creative challenge 
-**Design a greeting card about your summer at [Harvard Library Innovation Lab](http://lil.law.harvard.edu/).**  
+**Design a greeting card about your summer.**  
 **Use the basic git workflow to execute your design.**  
 **You have 30 minutes.**
 
