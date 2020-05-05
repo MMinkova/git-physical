@@ -52,3 +52,5 @@ Using basic git workflow all changes to your sketch are made locally in the work
 ## Debrief
 Slides in repo.
 
+## License
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
